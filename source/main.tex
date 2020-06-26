@@ -1,10 +1,68 @@
-\documentclass[english]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% METADATA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[american, 12pt]{article}
 
+% % MISC
+\usepackage[utf8]{inputenc}
+\usepackage{lipsum}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+
+
+% Margin - 1 inch on all sides
+\usepackage[letterpaper]{geometry}
+\usepackage{times}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+
+% Double-spacing
+\usepackage{setspace}
+\doublespacing
+
+
+\usepackage{ifpdf}
+\usepackage{mla}
+
+% Changes paragraph indentation to 0.5in
+\setlength{\parindent}{0.5in}
+
+% Other paragraph stuff
+\setlength{\parskip}{1em}
+\renewcommand{\baselinestretch}{2.0}
+
+% Math
+% \usepackage{tikz-cd}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DOCUMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-\title{The Title of The Paper}
-\author{John Doe}
-\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TITLE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{mla}{Colbyn}{Wadman}{Professor's last name}{English}{\today}{Rhetorical Analysis}
+
+% \title{Rhetorical Analysis}
+% \author{Colbyn Wadman}
+% \maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BODY
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \begin{tikzcd}
+% A \arrow[rd] \arrow[r, "\phi"] & B \\
+%                                & C
+% \end{tikzcd}
 
 
 
+\input{essay.tex}
+
+
+
+\end{mla}
 \end{document}
