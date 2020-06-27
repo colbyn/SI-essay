@@ -1,13 +1,13 @@
 # My Rhetorical Analysis Project
 
 
-# License
+## License
 Source Code: MIT
 
 Essay: Creative Commons License
 
 
-# Compiling the PDF
+## Compiling the PDF
 
 ```shell
 $ ./scripts/build.sh
