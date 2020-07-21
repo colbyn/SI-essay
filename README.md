@@ -1,11 +1,4 @@
-# My Rhetorical Analysis Project
-
-
-## License
-Source Code: MIT
-
-Essay: Creative Commons License
-
+# My Stasis Interrogation Project
 
 ## Compiling the PDF
 
@@ -15,6 +8,6 @@ $ ./scripts/build.sh
 
 Results in `./output/main.pdf`. 
 
-## [Pre-built PDF](./release/main.pdf)
+<!-- ## [Pre-built PDF](./release/main.pdf)
 
-A Pre-built PDF is available under [./release/main.pdf](./release/main.pdf)
+A Pre-built PDF is available under [./release/main.pdf](./release/main.pdf) -->
