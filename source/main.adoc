@@ -6,7 +6,12 @@
 
 = Stasis Interrogation
 
-My paper is on the essay by Larry Gordon, called "`Wikipedia Pops Up in Bibliographies and Even College Assignments`".
+---
+
+At the time of this writing, the English subset on Wikipedia records a total of `6,131,949` articles, encompassing `50,932,643` pages, from `965,717,631` edits, by `39,605,523` users and `1,139` admins. All in all, at a velocity of `1.9` edits per second, averaging `600` new articles per day. ^(Wikipedia:Statistics)^
+
+
+From such statistics, the phenomena that is Wikipedia is something to be acknowledged. The following is an account of ongoing reconciliation between Wikipedia and academia, written by Larry Gordon, called "`Wikipedia Pops Up in Bibliographies and Even College Assignments`".
 
 
 == Commentary
@@ -131,5 +136,7 @@ https://bits.blogs.nytimes.com/2009/03/30/microsoft-encarta-dies-after-long-batt
 (Forbes):: Unknown, “Victim Of Wikipedia: Microsoft To Shut Down Encarta”, Forbes, +
 https://www.forbes.com/2009/03/30/microsoft-encarta-wikipedia-technology-paidcontent.html#31839b282db3
 
+(Wikipedia:Statistics):: Wikipedia:Statistics, +
+https://en.wikipedia.org/wiki/Wikipedia:Statistics
 
 
