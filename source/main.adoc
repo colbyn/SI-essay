@@ -114,11 +114,6 @@ From it’s humble and nuanced beginnings, Wikipedia has become '`the`' online e
 
 :sectnums!:
 
-.Miscellaneous
-****
-[.text-center]
-This essay is available on GitHub: https://github.com/colbyn/SI-essay
-****
 
 
 == References
